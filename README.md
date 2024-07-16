@@ -17,5 +17,5 @@
 * actualizar
 ![actualizar](https://github.com/user-attachments/assets/26578b86-34d5-47fc-b0ab-ad928612ae10)
 
-*login
+* login
 ![login](https://github.com/user-attachments/assets/abc6644a-1da2-4051-a087-5b2028d75a82)
