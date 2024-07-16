@@ -1,5 +1,9 @@
 # forohub
 
+# Requisitos
+  * Java 17
+  * MySQL
+
 # Ejemplos de ejecucion
 
 * Registrar
